@@ -28,6 +28,6 @@ Cyprus University of Technology
 - Interfacial Phenomena
 - Fluid Mechanics (including Bio-fluids)
 - Heat and Mass Transfer 
-- Disease Diagnosis and Treatment 
 - Biophysics
+- Disease Diagnosis and Treatment 
 
