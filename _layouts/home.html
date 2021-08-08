@@ -17,9 +17,9 @@ layout: default
       </div>
       <div>
         <!-- Frontpage content here -->
-          {% assign frontpage = site.pages | find:"frontpage", "true" %}
+          {% assign frontpage = site.pages | where:"frontpage", "true" %}
           {% if frontpage %}
-          {{ frontpage | jsonify }}
+          {{ frontpage[0] | jsonify }}
           {% else %}
           <p>No frontpage found. Create a page that has the properties</p>
 
