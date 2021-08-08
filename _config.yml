@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/marinaefstratiou.github.io"
+# gbaseurl: "/marinaefstratiou.github.io"
 url: "https://marinaefstratiou.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
