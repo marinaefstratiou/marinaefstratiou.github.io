@@ -5,7 +5,7 @@ permalink: /cv/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 hide: false
-priority: 2
+priority: 6
 ---
 
 The curriculum vitae.
