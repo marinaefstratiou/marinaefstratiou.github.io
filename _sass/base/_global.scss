@@ -278,3 +278,16 @@ kbd {
   padding-top: 2em;
   max-width: 100%;
 }
+.avatar-cropper{
+    float:left;
+   width: 150px;
+   height: 150px;
+   position: relative;
+   overflow: hidden;
+   border-radius: 50%;
+   border:2px solid #000;
+   margin: 2em;
+}
+.avatar{
+    padding: 0;
+}

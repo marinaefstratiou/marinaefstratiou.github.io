@@ -4,11 +4,27 @@ layout: default
 
 <div class="home">
 
-    <div id="main" class="call-out"
-         style="background-image: url('{{ site.header_feature_image | relative_url }}')">
-        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
-    </div>
+  <div id="main" class="call-out"
+       style="background-image: url('{{ site.header_feature_image | relative_url }}')">
+    <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+  </div>
 
-    {% include blog/blog.html %}
-
+  <article>
+    <section class="post-content">
+      <!-- <header> -->
+      <!--   <h1> Header</h1> -->
+      <!-- </header> -->
+      <div class="avatar-cropper">
+        <img src="{{ site.photo | relative_url }}" alt="Avatar" class="avatar">
+      </div>
+      <div>
+        <p>
+        Body text there is a lot of text here. Actually not a lot but
+        enough so that it's more than a few lines. Is this a few lines
+        or is it less? The more I write the more lines this text will
+        be which as I said.
+        </p>
+      </div>
+    </section>
+  </article>
 </div>

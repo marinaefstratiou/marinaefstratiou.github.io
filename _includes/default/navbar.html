@@ -21,8 +21,8 @@
     <!-- Menu -->
     <ul class="hide">
         {% assign name_page = "" %}
-
-        {% for page in site.pages %}
+        {% assign pagelist = site.pages | sort: "priority" %}
+        {% for page in pagelist %}
             {% unless page.title == null or page.hide or name_page contains page.title %}
             <li class="separator"> | </li>
             <li>
@@ -34,7 +34,7 @@
             {% endunless %}
             {% assign name_page = page.title | append: name_page %}
         {% endfor %}
-        
+
         {% if site.color_theme == 'auto' %}
         <li class="separator"> | </li>
         <li><a id="theme-toggle" title="{{ page.title }} " aria-label="{{ page.title }}" onclick="themeToggle()"></a></li>
