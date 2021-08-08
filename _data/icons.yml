@@ -5,14 +5,14 @@ calendly:
 dribbble:
 facebook:
 flickr:
-github: sylhare
+github:
 gitlab:
-google-scholar:   # e.g. "WXAAOb0AAAAJ"
+google-scholar: t6CwNvoAAAAJ   # e.g. "WXAAOb0AAAAJ"
 instagram:
 hacker-news:
 keybase:
-linkedin:
-mail:             # e.g. "sam@mail.com"
+linkedin: marina-efstratiou-0588481b0
+mail: marina.efstratiou@gmail.com             # e.g. "sam@mail.com"
 map:              # e.g. "34.0886/-118.3191"
 mastodon:         # e.g. "fostodon.org/@sam"
 matrix:           # e.g. "@sam:matrix.org"
@@ -29,7 +29,7 @@ steam:
 telegram:
 tumblr:
 twitch:
-twitter:
+twitter: Marina_Efs
 vimeo:
 vk:
 wordpress:

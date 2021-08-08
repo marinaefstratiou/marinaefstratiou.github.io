@@ -6,7 +6,8 @@ layout: default
 
   <div id="main" class="call-out"
        style="background-image: url('{{ site.header_feature_image | relative_url }}')">
-    <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+    <h1 class="title"> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
+    <h2 class="subtitle">{{ site.subtitle }}</h2>
   </div>
 
   <article>
@@ -18,12 +19,17 @@ layout: default
         <img src="{{ site.photo | relative_url }}" alt="Avatar" class="avatar">
       </div>
       <div>
-        <p>
-        Body text there is a lot of text here. Actually not a lot but
-        enough so that it's more than a few lines. Is this a few lines
-        or is it less? The more I write the more lines this text will
-        be which as I said.
-        </p>
+          {% assign frontpage = site.pages | find:"frontpage", "true" %}
+          {% if frontpage %}
+          {{ frontpage.content }}
+          {% else %}
+          <p>No frontpage found. Create a page that has the properties</p>
+
+          <code>
+            hide: true </br>
+            frontpage: true
+          </code>
+          {% endif %}
       </div>
     </section>
   </article>

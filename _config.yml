@@ -10,9 +10,9 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: Marina Estratiou  # Change Blog header text
+subtitle: "PhD candidate, Mechanical/Chamical engineering"
 header_feature_image: assets/img/pexels/plane.jpeg
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+footer_text: "Find me on social media:"
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
