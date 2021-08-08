@@ -19,7 +19,7 @@ layout: default
         <!-- Frontpage content here -->
           {% assign frontpage = site.pages | find:"frontpage", "true" %}
           {% if frontpage %}
-        <h3>{{ frontpage.title }}</h3>
+        <h3>Title: {{ frontpage.title }}</h3>
           {{ frontpage.content }}
           {% else %}
           <p>No frontpage found. Create a page that has the properties</p>
