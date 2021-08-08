@@ -19,7 +19,6 @@ layout: default
         <!-- Frontpage content here -->
           {% assign frontpage = site.pages | find:"frontpage", "true" %}
           {% if frontpage %}
-        <h3>Title: {{ frontpage.title }}</h3>
           {{ frontpage.content }}
           {% else %}
           <p>No frontpage found. Create a page that has the properties</p>
@@ -28,6 +27,13 @@ layout: default
             hide: true </br>
             frontpage: true
           </code>
+
+        <p>Pages found are:</p>
+        <ul>
+          {% for page in pages %}
+          <li>{{ page.title }}, frontpage: {{ page.frontpage }}</li>
+          {% endfor %}
+        </ul>
           {% endif %}
       </div>
     </section>
