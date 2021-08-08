@@ -12,13 +12,11 @@ layout: default
 
   <article>
     <section class="post-content">
-      <!-- <header> -->
-      <!--   <h1> Header</h1> -->
-      <!-- </header> -->
       <div class="avatar-cropper">
         <img src="{{ site.photo | relative_url }}" alt="Avatar" class="avatar">
       </div>
       <div>
+        <!-- Frontpage content here -->
           {% assign frontpage = site.pages | find:"frontpage", "true" %}
           {% if frontpage %}
           {{ frontpage.content }}
