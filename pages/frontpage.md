@@ -26,7 +26,7 @@ Cyprus University of Technology
 ## Research Interests 
 - Droplets
 - Interfacial Phenomena
-- Fluid Mechanics and Bio-fluids
+- Fluid Mechanics (including Bio-fluids)
 - Heat and Mass Transfer 
 - Disease Diagnosis and Treatment 
 - Biophysics
