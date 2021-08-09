@@ -8,4 +8,4 @@ hide: false
 priority: 6
 ---
 
-You may find a latest version of my [curriculum vitae](./Marina Efstratiou-CV.pdf).
+You may find the latest version of my [curriculum vitae](./Marina Efstratiou-CV.pdf).
