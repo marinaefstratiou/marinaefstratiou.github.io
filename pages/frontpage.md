@@ -29,5 +29,6 @@ Cyprus University of Technology
 - Fluid Mechanics (including Bio-fluids)
 - Heat and Mass Transfer 
 - Biophysics
+- (Bio) Colloids
 - Disease Diagnosis and Treatment 
 
