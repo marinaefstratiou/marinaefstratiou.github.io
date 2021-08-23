@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-feature-img: "assets/img/pexels/4.jpg"
+feature-img: "assets/img/pexels/P4.jpg"
 tags: [Page]
 priority: 0
 ---
