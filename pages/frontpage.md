@@ -15,14 +15,14 @@ Originally from Limassol, Cyprus, I received a BSc in Mechanical Engineering and
 
 ## Education
 
-<div class="kapeluthkia">
+<ul class="kapeluthkia">
 
-- Ph.D Engineering, 2017-Present <br/> The University of Edinburgh, UK 
+  <li>Ph.D Engineering, 2017-Present <br/> The University of Edinburgh, UK</li>
 
-- MSc Biomedical Engineering, 2015-2017 <br/> Cyprus University of Technology
+  <li>MSc Biomedical Engineering, 2015-2017 <br/> Cyprus University of Technology</li>
 
-- BSc Mechanical Engineering and Materials Science, 2011-2015 <br/> Cyprus University of Technology 
-</div>
+  <li>BSc Mechanical Engineering and Materials Science, 2011-2015 <br/> Cyprus University of Technology</li>
+</ul>
   
 ## Research Interests 
 - Droplets
