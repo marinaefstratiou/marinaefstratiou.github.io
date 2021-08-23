@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/1.jpeg"
 tags: [Page]
 hide: false
 priority: 5
