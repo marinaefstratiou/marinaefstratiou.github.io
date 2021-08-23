@@ -2,8 +2,8 @@
 layout: page
 title: Publications
 permalink: /publications/
-feature-img: "assets/img/pexels/P4.jpg"
-background_position: "0% 80%"
+feature-img: "assets/img/pexels/P7.jpg"
+background_position: "0% 45%"
 tags: [Page]
 hide: false
 priority: 5
