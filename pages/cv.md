@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/2.jpg"
 tags: [Page]
 hide: false
 priority: 6
