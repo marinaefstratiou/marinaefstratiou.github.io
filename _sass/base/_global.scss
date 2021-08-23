@@ -295,6 +295,9 @@ kbd {
 .frontpage {
     .kapeluthkia {
         list-style: none;
+        margin-left: 0;
+        padding-left: 1em;
+        text-indent: -1em;
         li:before {
             content: "🎓"
         }
