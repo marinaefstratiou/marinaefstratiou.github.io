@@ -17,9 +17,9 @@ Originally from Limassol, Cyprus, I received a BSc in Mechanical Engineering and
 
 <div class="kapeluthkia">
 
-- Ph.D Engineering, 2017-Present<br/>The University of Edinburgh, UK 
+- Ph.D Engineering, 2017-Present <br/> The University of Edinburgh, UK 
 
-- MSc Biomedical Engineering, 2015-2017 <br/>Cyprus University of Technology
+- MSc Biomedical Engineering, 2015-2017 <br/> Cyprus University of Technology
 
 - BSc Mechanical Engineering and Materials Science, 2011-2015 <br/> Cyprus University of Technology 
 </div>
@@ -27,9 +27,9 @@ Originally from Limassol, Cyprus, I received a BSc in Mechanical Engineering and
 ## Research Interests 
 - Droplets
 - Interfacial Phenomena
-- Fluid Mechanics (including Bio-fluids)
+- (Bio-)Fluid Mechanics 
 - Heat and Mass Transfer 
+- (Bio-) Colloids
 - Biophysics
-- (Bio) Colloids
 - Disease Diagnosis and Treatment 
 
