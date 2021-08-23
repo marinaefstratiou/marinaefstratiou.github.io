@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 feature-img: "assets/img/pexels/P4.jpg"
-background_image: "0% 80%"
+background_position: "0% 80%"
 tags: [Page]
 hide: false
 priority: 5
