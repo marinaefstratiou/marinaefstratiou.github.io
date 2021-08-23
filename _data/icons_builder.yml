@@ -80,3 +80,5 @@ wordpress:
   pos: ".wordpress.com/"
 youtube:
   pre: "https://www.youtube.com/channel/"
+researchgate:
+  pre: "https://www.researchgate.net/profile/"
