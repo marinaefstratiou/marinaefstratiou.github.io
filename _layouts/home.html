@@ -10,12 +10,12 @@ layout: default
     <h2 class="subtitle">{{ site.subtitle }}</h2>
   </div>
 
-  <article>
+  <article class="frontpage">
     <section class="post-content">
-      <div class="avatar-cropper">
-        <img src="{{ site.photo | relative_url }}" alt="Avatar" class="avatar">
+      <div class="photo-cropper">
+        <img src="{{ site.photo | relative_url }}" alt="Avatar" class="photo">
       </div>
-      <div>
+      <div class="content">
         <!-- Frontpage content here -->
           {% assign frontpage = site.pages | where:"frontpage", "true" %}
           {% if frontpage %}
