@@ -9,4 +9,4 @@ hide: false
 priority: 10
 ---
 
-[e-mail] (mailto:marina.efstratiou@gmail.com)
+[Contact me](mailto:marina.efstratiou@gmail.com)
