@@ -11,3 +11,5 @@ priority: 5
 
 Efstratiou, M., Christy, J., & Sefiane, K. (2020). Crystallization-driven flows within evaporating aqueous saline droplets. Langmuir, 36(18), 4995-5002
 [Crystallization-Driven Flows within Evaporating Aqueous Saline Droplets](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.0c00576)
+
+Efstratiou, M.; Christy, J.; Bonn, D.; Sefiane, K. The Effect of Substrate Temperature on the Evaporative Behaviour and Desiccation Patterns of Foetal Bovine Serum Drops. Colloids Interfaces 2021, 5, 43. https://doi.org/10.3390/colloids5040043
