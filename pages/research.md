@@ -19,6 +19,8 @@ The aim of my thesis is to examine the effect of various parameters on the evapo
 
 My work includes the utilisation of Drop Shape Analysis (DSA) techniques for investigation of the temporal evolution of the contact angle, droplet radius and volume over time, combined with the acquisition of mass measurements via the use of microbalances. A large part of my work focuses on the acquisition of morphological data (via bright-field microscopy or Scanning Electron Microscopy) or topographical data (via Confocal Laser Scanning Microscopy) of the final dried patterns and image processing and analysis techniques for pattern classification. I also employ Energy Dispersive X-ray (EDX) Analysis techniques to probe the spatial distribution of components in the dried patterns. For the examination of the flows in the drying droplets, I use micro-Particle Image Velocimetry (micro-PIV) to visualise the internal flows and measure accurate flow velocities. Additionally, I use Infrared Thermography (IRT) for the investigation of the spatial variations of temperature in the drying drops. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8NK0MQ1JnII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nO4RbqIiwVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Master's Research 
