@@ -19,7 +19,7 @@ Originally from Limassol, Cyprus, I received a BSc in Mechanical Engineering and
 
 <ul class="kapeluthkia">
 
-  <li>Ph.D Engineering, 2017-Present <br/> The University of Edinburgh, UK</li>
+  <li>Ph.D Engineering, 2017-2021 <br/> The University of Edinburgh, UK</li>
 
   <li>MSc Biomedical Engineering, 2015-2017 <br/> Cyprus University of Technology</li>
 
