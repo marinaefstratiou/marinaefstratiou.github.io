@@ -10,7 +10,7 @@ frontpage: true
 
 # About Me
 
-I am currently working as a Senior Scientist at [Lightcast Discovery](https://www.lightcast.bio/). 
+I currently work as a Senior Scientist at [Lightcast Discovery](https://www.lightcast.bio/). 
 
 Previously, I worked as a Research Associate in Soft Matter Biophysics at the [Division of Pharmacy and Optometry](https://www.research.manchester.ac.uk/portal/en/facultiesandschools/division-of-pharmacy--optometry(92ec216d-1e7a-411b-aaae-317c29e3cf88).html), [University of Manchester](https://www.manchester.ac.uk/) in the group of [Dr Richard Campbell](https://www.research.manchester.ac.uk/portal/richard.campbell.html). My research focused on the interactions of nanoparticles with model lung surfactant systems to stimulate and characterise reservoir nucleation in lipid biomembranes under respiratory conditions. For the investigation of the interactions I used interfacial characterisation techniques such as Brewster Angle Microscopy (BAM), ellipsometry, optical and neutron reflectometry.
 
