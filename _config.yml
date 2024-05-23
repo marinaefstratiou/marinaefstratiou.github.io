@@ -10,7 +10,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: Marina Estratiou  # Change Blog header text
-subtitle: "Research Associate in Soft Matter Biophysics"
+# subtitle: "Research Associate in Soft Matter Biophysics"
 header_feature_image: assets/img/pexels/princess2.jpeg
 header_feature_position: center
 footer_text: "Find me on social media:"
