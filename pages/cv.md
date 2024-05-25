@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 feature-img: "assets/img/pexels/P2.jpg"
-background_position: "0% 70%"
+background_position: "0% 65%"
 tags: [Page]
 hide: false
 priority: 6
