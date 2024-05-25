@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 feature-img: "assets/img/pexels/P6.jpg"
-background_position: "30% 50%"
+background_position: "30% 35%"
 tags: [Page]
 priority: 0
 ---
