@@ -4,12 +4,12 @@ url: "https://marinaefstratiou.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Marina Efstratiou                                    # site's title
-description: "The website of Marina Esfstratiou."      # used by search engines
+description: "The website of Marina Efstratiou."      # used by search engines
 avatar: assets/img/droplet.png    # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Marina Estratiou  # Change Blog header text
+header_text: Marina Efstratiou  # Change Blog header text
 subtitle: "Bioengineer"
 header_feature_image: assets/img/pexels/princess2.jpeg
 header_feature_position: center
